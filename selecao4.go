@@ -32,5 +32,5 @@ func main() {
       fmt.Println("Você está acima do peso")
   } else {
       fmt.Println("Você está dentro do peso")
-  }
-}
+  }}
+
